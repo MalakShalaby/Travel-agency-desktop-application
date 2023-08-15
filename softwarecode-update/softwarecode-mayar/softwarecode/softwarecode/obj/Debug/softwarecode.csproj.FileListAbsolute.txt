@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\softwarecode\softwarecode\bin\Debug\softwarecode.exe.config
+C:\Users\dell\source\repos\softwarecode\softwarecode\bin\Debug\softwarecode.exe
+C:\Users\dell\source\repos\softwarecode\softwarecode\bin\Debug\softwarecode.pdb
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.login.resources
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.main.resources
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.Properties.Resources.resources
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.exe
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.pdb
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.Hotels.resources
+C:\Users\dell\source\repos\softwarecode\softwarecode\obj\Debug\softwarecode.Package.resources
