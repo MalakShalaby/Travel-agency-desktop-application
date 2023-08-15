@@ -17,12 +17,21 @@ Main functionalities:
 -Customer View: Travel agents can view customer details stored in the system.
 
 -User Access: Travel agents can access information about hotels and tourist attractions.
+
 -Choose Trip: Travel agents can select between round-trip, one-way, and multiple destination journeys for customers.
+
 -Search (City, Airport Code): Travel agents can search for departure and arrival locations using either the city name or airport code.
+
 -Search About Airlines: The system allows travel agents to select multiple airlines and lists those serving the specified departure and destination.
+
 -Booking: Travel agents can book flights, hotels, and cars together for customers.
+
 -Create Package: The system can generate new travel packages to various destinations with associated prices.
+
 -Make Reservation: Travel agents can create reservations for customers.
+
 -Edit Trip: Travel agents have the ability to edit trip details.
+
 -Delete Reservation: Travel agents can cancel reservations.
+
 -Payment: The system prompts users to enter credit card information for payments.
