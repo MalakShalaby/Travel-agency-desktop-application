@@ -2,7 +2,8 @@
 It allows the travel agents book the lowest available fares and to research alternate itineraries in order to provide the lowest appropriate fares, which satisfies the client requirements. The Travel Agent(s) must be knowledgeable in preparing special fares, restricted fares, discounted fares, and group fares for use whenever appropriate.
 
 Project done using:
-![Uploading Screenshot (1).png…]()
+![Screenshot (1)](https://github.com/MalakShalaby/Travel-agency-desktop-application/assets/142336865/764ba560-ea98-47d1-b900-01b8c69ca96e)
+
 C#, Microsoft sql server, .Net framework and visual studio.
 
 Functional requirements
