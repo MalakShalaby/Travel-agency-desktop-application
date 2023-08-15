@@ -1,4 +1,4 @@
-![Screenshot (2)](https://github.com/MalakShalaby/Travel-agency-desktop-application/assets/142336865/984e9b79-4305-4ac4-9680-6b0d817d7396)# Travel-agency-desktop-application
+Travel-agency-desktop-application
 It allows the travel agents book the lowest available fares and to research alternate itineraries in order to provide the lowest appropriate fares, which satisfies the client requirements. The Travel Agent(s) must be knowledgeable in preparing special fares, restricted fares, discounted fares, and group fares for use whenever appropriate.
 
 ![Screenshot (2)](https://github.com/MalakShalaby/Travel-agency-desktop-application/assets/142336865/2d8abda6-b9d2-4a88-8f69-0729551a3970)
