@@ -5,11 +5,17 @@ It allows the travel agents book the lowest available fares and to research alte
 
 project done using:
 C#, Microsoft sql server, .Net framework and visual studio.
+
 Main functionalities:
+
 -Registration: Users can create an account by registering with their details.
+
 -Login: Registered users can log in using their username and password.
+
 -Record Information in Database: The system collects and stores clients' personal information including name, address, phone number, and age.
+
 -Customer View: Travel agents can view customer details stored in the system.
+
 -User Access: Travel agents can access information about hotels and tourist attractions.
 -Choose Trip: Travel agents can select between round-trip, one-way, and multiple destination journeys for customers.
 -Search (City, Airport Code): Travel agents can search for departure and arrival locations using either the city name or airport code.
